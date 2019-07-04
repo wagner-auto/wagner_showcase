@@ -1,0 +1,13 @@
+.btn {
+    display: inline-block;
+    border: none;
+    outline: none;
+    font-family: Roboto;
+    padding: 25px 0px;
+    text-align: center;
+}
+
+.btn-dark-gray {
+    background: $dark_gray;
+    color: #fff;
+}
